@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baea6c27-eaa9-49f6-a258-eb38c8d9f882" name="Default Changelist" comment="init 3">
-      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/hero-bg.jpg" afterDir="false" />
+    <list default="true" id="baea6c27-eaa9-49f6-a258-eb38c8d9f882" name="Default Changelist" comment="init 4">
+      <change afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hero-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/testimonials" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/testimonials" />
+      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650547962263</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init 4">
+      <created>1652597915948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652597915948</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +116,7 @@
     <MESSAGE value="init 1" />
     <MESSAGE value="init 2" />
     <MESSAGE value="init 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="init 3" />
+    <MESSAGE value="init 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 4" />
   </component>
 </project>

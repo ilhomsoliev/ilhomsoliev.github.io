@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baea6c27-eaa9-49f6-a258-eb38c8d9f882" name="Default Changelist" comment="init 12">
-      <change afterPath="$PROJECT_DIR$/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/navLogo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="baea6c27-eaa9-49f6-a258-eb38c8d9f882" name="Default Changelist" comment="init 13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680084853364</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init 13">
+      <created>1680086119781</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680086119781</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +191,7 @@
     <MESSAGE value="init 10" />
     <MESSAGE value="init 11" />
     <MESSAGE value="init 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="init 12" />
+    <MESSAGE value="init 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 13" />
   </component>
 </project>
